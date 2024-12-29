@@ -1,0 +1,9 @@
+keras
+nltk
+numpy
+pandas
+pickle
+scikit-learn
+sklearn
+statistics
+tensorflow

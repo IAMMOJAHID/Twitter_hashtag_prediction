@@ -1,0 +1,5 @@
+.venv
+temp.py
+BiLSTM/BiLSTM.keras
+LSTM/LSTM.keras
+RNN/RNN.keras
